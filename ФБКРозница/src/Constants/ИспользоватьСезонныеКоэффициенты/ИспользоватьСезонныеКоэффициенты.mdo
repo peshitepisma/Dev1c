@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2e407a76-d511-429d-829c-0eddba7c6254">
+  <producedTypes>
+    <managerType typeId="dc833667-5fed-441e-a771-832379334854" valueTypeId="8b57658a-bda4-4d97-a76d-3434c43969b1"/>
+    <valueManagerType typeId="c6858a35-36a0-4c38-a77a-f5a4781a51b6" valueTypeId="013dfce8-f2da-4106-bedd-cb083e973462"/>
+  </producedTypes>
+  <name>ИспользоватьСезонныеКоэффициенты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать сезонные коэффициенты</value>
+  </synonym>
+  <comment></comment>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <mask></mask>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

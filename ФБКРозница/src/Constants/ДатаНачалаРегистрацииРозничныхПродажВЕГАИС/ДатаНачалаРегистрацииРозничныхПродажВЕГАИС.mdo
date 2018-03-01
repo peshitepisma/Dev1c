@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a4d1101f-fcd5-4e46-a406-4b21b3508abd">
+  <producedTypes>
+    <managerType typeId="2c442bd3-bb1e-471d-8fc2-7ab10bb18a27" valueTypeId="046b5681-da13-404c-a704-0689f457fe56"/>
+    <valueManagerType typeId="a0d00f2c-7677-4422-88bb-b9bc2f4f27eb" valueTypeId="7fc45fdf-904b-49b7-81a1-90af93617b30"/>
+  </producedTypes>
+  <name>ДатаНачалаРегистрацииРозничныхПродажВЕГАИС</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дата начала регистрации розничных продаж в ЕГАИС</value>
+  </synonym>
+  <comment></comment>
+  <type>
+    <types>Date</types>
+    <dateQualifiers>
+      <dateFractions>Date</dateFractions>
+    </dateQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <mask></mask>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

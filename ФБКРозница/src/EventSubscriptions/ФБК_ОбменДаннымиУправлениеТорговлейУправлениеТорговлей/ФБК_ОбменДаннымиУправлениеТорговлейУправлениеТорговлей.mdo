@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:EventSubscription xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1da95809-b67f-401a-b089-0181f7275157">
+  <name>ФБК_ОбменДаннымиУправлениеТорговлейУправлениеТорговлей</name>
+  <synonym>
+    <key>ru</key>
+    <value>ФБК обмен данными управление торговлей управление торговлей</value>
+  </synonym>
+  <comment></comment>
+  <source>
+    <types>DocumentObject.ВозвратТоваровПоставщику</types>
+  </source>
+  <event>BeforeWrite</event>
+  <handler>CommonModule.ОбменДаннымиСобытияУТУП.ОбменДаннымиОбменУправлениеТорговлейУправлениеТорговлейПередЗаписьюДокумента</handler>
+</mdclass:EventSubscription>

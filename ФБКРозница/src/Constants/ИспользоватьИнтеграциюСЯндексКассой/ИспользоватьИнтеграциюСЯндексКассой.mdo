@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="47392b90-3603-4e92-87ee-ca3f384367a1">
+  <producedTypes>
+    <managerType typeId="45f3988f-0a1f-4e4c-8901-c4e165d3283a" valueTypeId="f7919eba-445c-48b0-90a3-4eba63596ee4"/>
+    <valueManagerType typeId="eeb7b473-e912-4373-9a18-835b21085f7a" valueTypeId="45eaa3fb-9f98-4ef9-9901-3a17a3c0106f"/>
+  </producedTypes>
+  <name>ИспользоватьИнтеграциюСЯндексКассой</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать интеграцию с Яндекс.Кассой</value>
+  </synonym>
+  <comment></comment>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <mask></mask>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

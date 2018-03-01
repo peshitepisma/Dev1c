@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:FunctionalOption xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d9becd92-5159-4fb0-a4a8-61f014d06a48">
+  <name>ИспользоватьВводОстатковВерсии24</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать ввод остатков версии 2.4</value>
+  </synonym>
+  <comment></comment>
+  <location>Constant.ИспользоватьВводОстатковВерсии24</location>
+  <privilegedGetMode>true</privilegedGetMode>
+  <content>Document.ПервичныйДокумент</content>
+  <content>Document.ВводОстатков.Attribute.Партия</content>
+  <content>Document.ВводОстатков.TabularSection.РасчетыСПартнерами.Attribute.ОбъектРасчетов</content>
+  <content>Document.ВводОстатков.TabularSection.РасходыПриУСН</content>
+  <content>Document.ВводОстатков.TabularSection.НДСПредъявленный</content>
+  <content>Document.ВводОстатков.TabularSection.ДетализацияПартий</content>
+  <content>Document.ВводОстатков.TabularSection.РасчетыМеждуОрганизациями.Attribute.ОбъектРасчетов</content>
+</mdclass:FunctionalOption>

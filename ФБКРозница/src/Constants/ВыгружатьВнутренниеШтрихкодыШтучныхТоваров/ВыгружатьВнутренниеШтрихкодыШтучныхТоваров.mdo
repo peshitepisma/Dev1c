@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ff76e85a-6d29-41d3-a83e-f4a34139c6b2">
+  <producedTypes>
+    <managerType typeId="2411d962-1efd-48f4-85ac-56a432d5a1c2" valueTypeId="b840d104-208b-4359-b43b-c43cc9004e49"/>
+    <valueManagerType typeId="c978ee96-a40e-426f-a454-216fba74ecba" valueTypeId="10cfe6e3-dd84-417d-b1b8-f69d03737b1a"/>
+  </producedTypes>
+  <name>ВыгружатьВнутренниеШтрихкодыШтучныхТоваров</name>
+  <synonym>
+    <key>ru</key>
+    <value>Выгружать внутренние штрихкоды штучных товаров</value>
+  </synonym>
+  <comment></comment>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <mask></mask>
+  <minValue xsi:type="core:StringValue">
+    <value>2</value>
+  </minValue>
+  <maxValue xsi:type="core:StringValue">
+    <value>9</value>
+  </maxValue>
+  <choiceHistoryOnInput>DontUse</choiceHistoryOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

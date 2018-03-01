@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:FunctionalOption xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7db03d51-2ff6-461d-84b1-fc1d4d293c2b">
+  <name>НеИспользоватьВводОстатковВерсии24</name>
+  <synonym>
+    <key>ru</key>
+    <value>Не использовать ввод остатков версии 24</value>
+  </synonym>
+  <comment></comment>
+  <location>Constant.НеИспользоватьВводОстатковВерсии24</location>
+  <privilegedGetMode>true</privilegedGetMode>
+  <content>Document.ВводОстатков.Attribute.Префикс</content>
+  <content>Document.ВводОстатков.Attribute.ДополнятьНомера</content>
+  <content>Document.ВводОстатков.TabularSection.РасчетыМеждуОрганизациями.Attribute.НомерРасчетногоДокумента</content>
+  <content>Document.ВводОстатков.TabularSection.РасчетыМеждуОрганизациями.Attribute.ДатаРасчетногоДокумента</content>
+  <content>Document.ВводОстатков.TabularSection.РасчетыСПартнерами.Attribute.НомерРасчетногоДокумента</content>
+  <content>Document.ВводОстатков.TabularSection.РасчетыСПартнерами.Attribute.ДатаРасчетногоДокумента</content>
+</mdclass:FunctionalOption>
